@@ -1,0 +1,11 @@
+a_x = input("Adja meg az a pont x koordinátáját: ")
+a_y = input("Adja meg az a pont y koordinátáját: ")
+b_x = input("Adja meg az b pont x koordinátáját: ")
+b_y = input("Adja meg az b pont y koordinátáját: ")
+
+ax = int(a_x)
+ay = int(a_y)
+bx = int(b_x)
+by = int(b_y)
+tavolsag = ((bx-ax)**2+(by-ay)**2)**(0.5)
+print(tavolsag)
