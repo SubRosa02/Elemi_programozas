@@ -1,7 +1,7 @@
 a_x = input("Adja meg az a pont x koordinátáját: ")
 a_y = input("Adja meg az a pont y koordinátáját: ")
-b_x = input("Adja meg az b pont x koordinátáját: ")
-b_y = input("Adja meg az b pont y koordinátáját: ")
+b_x = input("Adja meg a b pont x koordinátáját: ")
+b_y = input("Adja meg a b pont y koordinátáját: ")
 
 ax = int(a_x)
 ay = int(a_y)
